@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="card-generator">
+	<schema id="com.github.jleonardfl.CardGenerator" path="/com/github/jleonardfl/CardGenerator/">
+	</schema>
+</schemalist>

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=card-generator
+Exec=card-generator
+Icon=com.github.jleonardfl.CardGenerator
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
